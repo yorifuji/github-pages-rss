@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイトタイトル</title>
+    <link>https://yorifuji.github.io/github-pages-rss</link>
+    <description>サイトの説明</description>
+    <atom:link href="https://yorifuji.github.io/github-pages-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+
+    <item>
+      <title>記事タイトル</title>
+      <link>https://yorifuji.github.io/github-pages-rss</link>
+      <guid isPermaLink="true">https://yorifuji.github.io/github-pages-rss</guid>
+      <pubDate>Sun, 08 Dec 2024 13:00:00 +0900</pubDate>
+      <description>Test</description>
+    </item>
+  </channel>
+</rss>
